@@ -7,6 +7,9 @@ public class nii217 {
 		System.out.println("hello world");
 	}
 
+	void hello() {
+		System.out.println("hello world");
+	}
 	
 
 }
